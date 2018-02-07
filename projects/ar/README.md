@@ -11,6 +11,7 @@
 ## Research notes
 
 -  [documentation](./research.md)
+-  [documentation pdf](./assets/research_pdf.pdf)
 -  [mid term presentation](./assets/arkit_presentation.pdf)
 
 
@@ -30,7 +31,7 @@ _Underworld excavation in AR using Portal like application_
 
 ### Other samples
 
-- other app
+- while the research various other applications were investigated, created, edited, improved
 
 ![Samples of Applicaftions](./assets/apps_samples.png "Samples of Applicaftions")
 
