@@ -22,7 +22,7 @@ Own research.
 
 _Research in Augmented Reality - especially on ARKit capabilitiess_
 
-https://github.com/michalsindelar/dip-cgi-research/projects/ar/README.md
+https://github.com/michalsindelar/dip-cgi-research/blob/master/projects/ar/README.md
 
 
 ### Augmented Reality applications
