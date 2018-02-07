@@ -16,7 +16,23 @@ _Heartbeat detection and visualization from video source._
 This project is an application, which detects heartbeat frequency of sampled person based on short optical record and figures the heartbeat in eye-catching form to the user. Creating algorithm for detecting the heartbeat is needed for this thesis purpose. Figuring the heartbeat frequency is inspired by Eulerian Magnification in records.
 
 
-## Lightning
+### Augmented Reality research
+
+Own research.
+
+_Research in Augmented Reality - especially on ARKit capabilitiess_
+
+https://github.com/michalsindelar/dip-cgi-research/projects/ar/README.md
+
+
+### Augmented Reality applications
+
+Own App + edited applications.
+
+https://github.com/michalsindelar/dip-cgi-research/projects/ar/README.md
+
+
+### Lightning
 
 https://github.com/michalsindelar/lightning
 
